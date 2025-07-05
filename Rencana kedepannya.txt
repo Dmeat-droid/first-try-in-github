@@ -1,0 +1,6 @@
+Beberapa rencana untuk masa depan:
+- Menguasai git dan github
+  *Menyelesaikan video wp unpas tentang git & github
+- Membuat beberapa project website
+  *Buat project website kecil
+  *kalo bisa buat konten dari situ
