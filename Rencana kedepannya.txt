@@ -1,0 +1,3 @@
+Beberapa rencana untuk masa depan:
+- Menguasai git dan github
+- Membuat beberapa project website
